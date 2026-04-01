@@ -1,2 +1,2 @@
 # Interior-Design-Management-System
-Python Project
+Project Semester-3
